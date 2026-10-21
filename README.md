@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hey, I'm John! 👋
 
-<!--
-**johnleevirador/johnleevirador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I build things that probably didn't need to exist until I thought of them.
 
-Here are some ideas to get you started:
+Honestly, I just like building stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes I get an idea out of nowhere. Sometimes I see a problem that bothers me way too much. And sometimes I just wonder, *"What if I made this myself?"*
+
+And well... here we are. 😭
+
+I don't really stick to one thing. One day I'm messing around with microcontrollers and electronics, the next I'm building a web application, and then suddenly I'm writing a C++ library because I don't like how something works.
+
+If an idea stays in my head long enough, there's a good chance I'll eventually try to build it.
+
+## 🧠 A little about how my brain works
+
+I LOVE abstraction. Like, **a lot.**
+
+If something is complicated, my first instinct is to figure out how I can make it simpler to work with. And if there's no good way to do that yet? Well, I might just build an abstraction for it myself. 💀
+
+I want to work at a higher level without constantly worrying about every little detail underneath. Not because I don't care about how things work, but because I want those details to be manageable enough that I can focus on the bigger picture.
+
+Sometimes this means building something simple.
+
+Sometimes this means building an entire system just to make one small thing easier.
+
+Is that overengineering? Maybe. Do I enjoy it? Absolutely.
+
+I like figuring out how things work, connecting ideas, and turning something complicated into something that feels natural to use. The idea of creating a tool that makes a difficult problem feel easy is genuinely exciting to me.
+
+## 🔧 Things I mess around with
+
+- **Embedded Systems** — Microcontrollers, electronics, hardware, and making software interact with the physical world. There's something really cool about writing code and watching an actual machine respond to it.
+- **Web Development** — Building websites, applications, APIs, backend systems, and whatever else an idea needs.
+- **Mobile Development** — Turning ideas into applications that people can actually use.
+- **C & C++** — Getting closer to the hardware, exploring how things work underneath, and occasionally questioning my life choices.
+- **Libraries & Abstractions** — Probably one of my favorite things to build. Why keep solving the same complicated problem when I can make a tool that handles it for me?
+
+I'm not particularly loyal to one area of development. If I need to learn something new to build an idea, then I guess I'm learning something new.
+
+## 💻 My current tech stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases & Caching**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+And whatever else I need to get the job done.
+
+## 🚧 What am I doing here?
+
+Mostly learning, experimenting, building random ideas, and trying to get better at turning the things in my head into actual working software.
+
+I'm still figuring things out, and there's a lot I don't know yet. But that's part of what makes programming fun for me. There's always something new to explore, something to improve, or something I suddenly feel the need to build.
+
+I want to get good enough to take an idea, no matter how complicated it seems at first, and figure out how to make it happen.
+
+Not just by writing code, but by understanding the problem well enough to design a solution that actually makes sense.
+
+---
+
+### Anyway, welcome to my little corner of GitHub! 👋
+
+You'll probably find a mix of projects here. Some might be practical, some might be experiments, and some might exist because I had a thought at 2 AM and refused to let it go.
+
+Feel free to look around!
+
+And if you ever see a repository that makes you wonder, *"Why did he even build this?"*
+
+Well...
+
+**I probably asked myself the same question. I just built it anyway.** 💀🚀
